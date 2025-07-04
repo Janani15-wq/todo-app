@@ -137,6 +137,10 @@ npm run build
 ```bash
 cd backend
 # Add your MongoDB connection string to environment variables
+## 📽️ Demo
+
+Loom video demo: [Click here to watch](https://www.loom.com/share/b3dd1e9ee0ce4ac183ad624ce68e762b?sid=ab2ed8ff-3f93-4340-b1f8-80d5f910cb62)
+
 ```
 
 ## 🤝 Contributing
